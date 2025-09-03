@@ -1,6 +1,6 @@
 ## README
 
-### Code to reproduce results in Lagoon Nutrients
+### Code to reproduce lagoon nutrients results
 
 This repository contains code to generate results and figures from John et al. (in review at *Limnology and Oceanography*) Terrigenous inputs link nutrient dynamics to microbial communities in a tropical lagoon. 
 
@@ -8,7 +8,7 @@ This repository contains code to generate results and figures from John et al. (
 
 ### Repository structure
 
-Please use the code in the `/scripts/` folder in order. 
+Please use the code in the `/scripts/` folder in order. The scripts are designed to work in an Rproject, so filepaths are relative to this project's base folder. Relevant spatial layers are in the `data/spatialLayers` subdirectory. 
 
 #### Data wrangling 
 * `000_reefCols.R`: Colors for plotting
