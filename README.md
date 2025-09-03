@@ -8,7 +8,7 @@ This repository contains code to generate results and figures from John et al. (
 
 ### Repository structure
 
-Please use the code in the `/scripts/` folder in order. The scripts are designed to work in an Rproject, so filepaths are relative to this project's base folder. Relevant spatial layers are in the `data/spatialLayers` subdirectory. 
+Please use the code in the `/scripts/` folder in order. The scripts are designed to work in an Rproject, so filepaths are relative to this project's base folder. Relevant spatial layers are in the `data/spatialLayers/` subdirectory. Plots are in the `/plots/` subdirectory and when needed, additional .svg files are available for final image formatting touches.
 
 #### Data wrangling 
 * `000_reefCols.R`: Colors for plotting
