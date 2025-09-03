@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg132"
+   width="1152"
+   height="576"
+   viewBox="0 0 1152 576"
+   sodipodi:docname="figure3.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   inkscape:export-filename="figure3.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs136" />
+  <sodipodi:namedview
+     id="namedview134"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.67816944"
+     inkscape:cx="435.73181"
+     inkscape:cy="296.38611"
+     inkscape:window-width="1470"
+     inkscape:window-height="748"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g138" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g138">
+    <image
+       width="1152"
+       height="576"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="../figure3.png"
+       id="image140" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Italic_turb">
+    <g
+       id="g2230">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="rect1543"
+         width="94.98243"
+         height="17.94252"
+         x="754.08771"
+         y="489.34143" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.9823px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="755.15002"
+         y="504.57721"
+         id="text471"><tspan
+           sodipodi:role="line"
+           id="tspan469"
+           x="755.15002"
+           y="504.57721"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.9823px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#404040;fill-opacity:1;stroke-width:0;stroke-dasharray:none">Turbinaria</tspan></text>
+    </g>
+    <g
+       id="g2238"
+       transform="translate(241.90962,-42.079064)">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="rect2232"
+         width="94.98243"
+         height="17.94252"
+         x="754.08771"
+         y="489.34143" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.9823px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="755.15002"
+         y="504.57721"
+         id="text2236"><tspan
+           sodipodi:role="line"
+           id="tspan2234"
+           x="755.15002"
+           y="504.57721"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.9823px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#404040;fill-opacity:1;stroke-width:0;stroke-dasharray:none">Turbinaria</tspan></text>
+    </g>
+  </g>
+</svg>
