@@ -2,7 +2,7 @@
 
 ### Code to reproduce lagoon nutrients results
 
-This repository contains code to generate results and figures from John et al. (in review at *Limnology and Oceanography*) Terrigenous inputs link nutrient dynamics to microbial communities in a tropical lagoon. 
+This repository contains code to generate results and figures from John et al. (in review at *Limnology and Oceanography*) **Terrigenous inputs link nutrient dynamics to microbial communities in a tropical lagoon.** 
 
 ![Manuscript figure showing enriched N in bays, fringing reefs, and reef passes](plots/figure2/figure2.png)
 
