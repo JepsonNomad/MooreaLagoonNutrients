@@ -1,0 +1,8 @@
+Variable,Df,SumOfSqs,R2,F,Pr(>F)
+Turbinaria_N,1,1.01,0.09,19.08,0.001
+Nitrite_plus_Nitrate,1,0.55,0.05,10.46,0.001
+Silicate,1,0.71,0.06,13.43,0.001
+Phosphate,1,0.11,0.01,2.09,0.061
+HIX,1,0.33,0.03,6.24,0.001
+Residual,159,8.4,0.76,NA,NA
+Total,164,11.12,1,NA,NA

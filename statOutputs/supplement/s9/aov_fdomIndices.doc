@@ -1,0 +1,213 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; text-align:left; ">Parameter</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">term</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Df</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Sum.Sq</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Mean.Sq</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">F</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; col7">p</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; col8"></th>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">HIX</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Habitat</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.04424</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.76106</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2.806</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.025</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">*</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Year</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.3693</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.3693</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12.424</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">***</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Habitat:Year</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.21429</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.05357</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.198</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.94</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Residuals</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">551</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">149.4221</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.27118</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">BIX</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Habitat</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.14009</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.03502</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1.55</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.186</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Year</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1.16464</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1.16464</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">51.554</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">***</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Habitat:Year</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.14829</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.03707</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1.641</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.162</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Residuals</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">552</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12.46999</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.02259</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">M:C</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Habitat</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.45444</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.11361</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1.648</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.161</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Year</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">70.68102</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">70.68102</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1025.367</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">***</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Habitat:Year</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1.24471</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.31118</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4.514</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.001</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">***</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Residuals</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">552</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">38.0507</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.06893</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">FI</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Habitat</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.98176</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.24544</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6.573</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">***</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Year</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12.97473</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12.97473</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">347.461</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">***</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Habitat:Year</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.14332</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.03583</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.96</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.429</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Residuals</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">552</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">20.61252</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.03734</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; border-bottom: double; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; col8"></td>
+</tr>
+</table>
+
